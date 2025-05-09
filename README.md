@@ -39,6 +39,14 @@ Funcionalidades principais:
 
 ---
 
+## 📊 Diagramas
+
+![Modelo Conceitual](prints/models/concept_model.png)
+
+![Modelo Lógico](prints/models/logical_model.png)
+
+---
+
 ## 🎥 Apresentação
 
 🛠 **Em andamento:** Vídeo (até 5 min) explicando o projeto e consultas.
