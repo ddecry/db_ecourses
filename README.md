@@ -41,9 +41,9 @@ Funcionalidades principais:
 
 ## 📊 Diagramas
 
-![Modelo Conceitual](prints/models/concept_model.png)
+![Modelo Conceitual](https://raw.githubusercontent.com/ddecry/db_ecourses/main/prints/models/concept_model.png)
 
-![Modelo Lógico](prints/models/logical_model.png)
+![Modelo Lógico](https://raw.githubusercontent.com/ddecry/db_ecourses/main/prints/models/logical_model.png)
 
 ---
 
