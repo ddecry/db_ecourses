@@ -1,4 +1,4 @@
--- UPDATE: Status da matrícula
-UPDATE matriculas
-SET status = 'concluída'
-WHERE id = 1;	
+-- DELETE: Excluir um aluno que nunca se matriculou
+DELETE FROM alunos
+WHERE id NOT IN (SELECT aluno_id FROM matriculas)
+AND nome = 'João Almeida';
