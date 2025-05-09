@@ -17,7 +17,7 @@ Funcionalidades principais:
 
 - **Modelagem:**
   - Conceitual (DER) e Relacional completas (`Alunos`, `Instrutores`, `Cursos`, `Módulos`, `Matrículas`, `Certificados`).
-  - Diagramas PlantUML.
+  - Diagramas Draw.io e BRModeloWeb.
 
 - **Desenvolvimento:**
   - Scripts DDL com todas as constraints.
@@ -34,7 +34,7 @@ Funcionalidades principais:
 
 - `/ddl/`: Scripts de criação.
 - `/dml/`: Inserção, atualização, exclusão, consultas.
-- `/diagramas/`: PlantUML (conceitual/lógico).
+- `/prints/`: Modelos conceitual e lógico.
 - `README.md`: Este arquivo.
 
 ---
