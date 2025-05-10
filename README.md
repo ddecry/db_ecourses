@@ -49,7 +49,7 @@ Funcionalidades principais:
 
 ## 🎥 Apresentação
 
-🛠 **Em andamento:** Vídeo (até 5 min) explicando o projeto e consultas.
+🛠 **YouTube:** [Vídeo explicando o projeto e consultas.](https://youtu.be/JHAXrtct3rc)
 
 ---
 
